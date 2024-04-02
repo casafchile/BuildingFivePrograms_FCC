@@ -93,3 +93,5 @@ type echo
 type read
 type if
 type then
+help
+type bash
