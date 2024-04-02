@@ -66,3 +66,6 @@ help [[
 [[ hello == hello ]]
 __vsc_prompt_cmd_original
 [[ hello == world ]]
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+[[ hello =~ el ]]
