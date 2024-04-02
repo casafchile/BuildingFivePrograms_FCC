@@ -95,3 +95,4 @@ type if
 type then
 help
 type bash
+type psql
