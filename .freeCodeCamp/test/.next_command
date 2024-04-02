@@ -96,3 +96,5 @@ type then
 help
 type bash
 type psql
+type -/five.sh
+type ./five.sh
