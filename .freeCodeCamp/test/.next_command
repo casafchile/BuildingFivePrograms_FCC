@@ -50,3 +50,4 @@ touch fortune.sh
 chmod +x fortune.sh
 ./fortune.sh
 ARR=("a" "b" "c")
+echo ${ARR[1]}
